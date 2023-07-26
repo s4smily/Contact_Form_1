@@ -1,0 +1,438 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+width: 20%;
+
+margin: auto;
+
+text-align: center;
+
+margin-top: 58px;
+
+margin-bottom: 50px;
+}
+
+
+
+.icon{
+
+border: 1px solid green;
+
+width: 40px;
+
+height: 40px;
+
+line-height: 40px;
+
+justify-content: center;
+
+align-items: center;
+
+border-radius: 50%;
+
+text-align: center;
+
+color: white;
+}
+
+.contacts{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+}
+
+.getintouch{
+
+width: 50%;
+
+background: lightgreen;
+}
+
+.getintouch h3{
+
+font-size: 28px;
+
+color: white;
+
+font-weight: unset;
+
+margin: 20px 20px;
+}
+
+.getintouch p{
+
+color: white;
+
+font-size: 15px;
+
+margin: 20px 20px;
+}
+
+.getintouch ul{
+
+list-style: none;
+}
+
+.getintouch ul li{
+
+display: flex;
+
+margin: 55px 45px;
+
+line-height: center;
+
+align-items: center;
+}
+
+.getintouch ul li i{
+
+/* border: 1px solid green; */
+
+/* width: 50px; */
+
+/* height: 50px; */
+
+/* border-radius: 50%; */
+
+/* color: white; */
+
+/* line-height: 50px; */
+}
+
+.getintouch ul li h6{
+
+margin-left: 27px;
+}
+
+.formdiv{
+
+width: 50%;
+
+/* padding-left: 47px; */
+}
+
+.formdiv form{
+
+margin-left: 55px;
+
+margin-top: 63px;
+}
+
+
+.formdiv form h3{
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+width: 80%;
+
+margin: auto;
+
+text-align: center;
+
+margin-top: 58px;
+
+margin-bottom: 50px;
+}
+
+
+
+.icon{
+
+border: 1px solid white;
+
+width: 40px;
+
+height: 40px;
+
+line-height: 40px;
+
+justify-content: center;
+
+align-items: center;
+
+border-radius: 50%;
+
+text-align: center;
+
+color: white;
+}
+
+.contacts{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+margin-bottom: 86px;
+}
+
+.getintouch{
+
+width: 34%;
+
+background: #01d28e;
+
+padding-top: 48px;
+}
+
+.getintouch h3{
+
+font-size: 27px;
+
+color: white;
+
+font-weight: unset;
+
+margin: 21px 42px;
+}
+
+.getintouch p{
+
+color: white;
+
+font-size: 16px;
+
+margin: 15px 42px;
+
+width: 70%;
+}
+
+.getintouch ul{
+
+list-style: none;
+}
+
+.getintouch ul li{
+
+display: flex;
+
+margin: 23px 42px;
+
+line-height: center;
+
+align-items: center;
+}
+
+.getintouch ul li i{
+
+/* border: 1px solid green; */
+
+/* width: 50px; */
+
+/* height: 50px; */
+
+/* border-radius: 50%; */
+
+/* color: white; */
+
+/* line-height: 50px; */
+}
+
+.getintouch ul li h6{
+
+margin-left: 27px;
+
+width: 60%;
+
+font-size: 14px;
+
+font-weight: lighter;
+}
+
+.formdiv{
+
+width: 63%;
+
+/* padding-left: 47px; */
+
+background: azure;
+
+padding-right: 37px;
+}
+
+.formdiv form{
+
+margin-left: 29px;
+
+margin-top: 63px;
+}
+
+
+.formdiv form h3{
+
+font-size: 32px;
+
+margin-bottom: 25px;
+}
+
+.formdiv form label{
+
+width: 100%;
+
+font-size: 19px;
+
+font: message-box;
+
+/* margin: 16px 0px; */
+
+/* padding-top: 21px; */
+
+text-transform: capitalize;
+
+font-size: 16px;
+
+font-weight: bold;
+}
+
+.formdiv form input{
+
+border: none;
+
+background: transparent;
+
+padding: 10px 0;
+
+width: 100%;
+
+margin: 0px 0;
+
+outline: none;
+
+margin-bottom: 0px;
+}
+
+.formdiv form textarea{
+
+/* margin: 35px 0; */
+
+width: 100%;
+
+outline: none;
+
+margin-top: 8px;
+
+border: none;
+
+border-bottom: 1px solid;
+
+/* cursor: pointer; */
+
+background: transparent;
+}
+
+.masterdiv{
+
+display: flex;
+
+/* width: 50%; */
+
+margin-bottom: 10px;
+}
+
+.namediv{
+
+width: 50%;
+}
+
+
+
+.namediv input::placeholder{
+
+    border-bottom: solid 1px green;
+    padding-bottom: 3px;
+
+}
+
+
+.emaildiv{
+
+width: 50%;
+
+margin-left: 100px;
+}
+
+    
+
+
+.emaildiv input::placeholder{
+    border-bottom: solid 1px green;
+    padding-bottom: 3px;
+
+}
+
+.remainging {
+
+width: 100%;
+
+margin: auto;
+
+margin: 10px 0;
+}
+
+
+
+.remainging input::placeholder{
+
+    border-bottom: solid 1px green;
+    padding-bottom: 3px;
+}
+
+
+
+.submit{
+
+width: 23%;
+
+border: none;
+
+background: transparent; 
+margin-top: 20px;
+
+border-radius: 2px;
+
+
+/* cursor: pointer; */
+
+/* cursor: pointer; */
+
+text-align: center;
+
+/* padding: 1px 0; */
+
+align-items: center;
+
+transition: .3s all ease-in-out;
+
+border: 1px solid;
+}
+
+.submit:hover{
+
+    background-color: red;
+    cursor: pointer;
+}
